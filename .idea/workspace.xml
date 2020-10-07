@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a44be687-f5c1-49cc-b0c1-45ce37c23d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a44be687-f5c1-49cc-b0c1-45ce37c23d94" name="Default Changelist" comment="[20.10.07] #1. 기본 설정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -24,7 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iXxaYBqPXqdXCebAji9XHxWx9C" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,12 +60,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602067801569</updated>
-      <workItem from="1602067802596" duration="3050000" />
+      <workItem from="1602067802596" duration="8056000" />
     </task>
+    <task id="LOCAL-00001" summary="[20.10.07] #1. 기본 설정">
+      <created>1602070941088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602070941089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[20.10.07] #1. 기본 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="[20.10.07] #1. 기본 설정" />
   </component>
   <component name="WindowStateProjectService">
     <state x="838" y="417" key="Github.ShareDialog" timestamp="1602069530638">
@@ -75,6 +88,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="733" y="221" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602069547394" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602070948318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602070948318" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602069513325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
