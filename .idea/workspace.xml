@@ -19,9 +19,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a44be687-f5c1-49cc-b0c1-45ce37c23d94" name="Default Changelist" comment="[20.10.08] #2. 흠">
+    <list default="true" id="a44be687-f5c1-49cc-b0c1-45ce37c23d94" name="Default Changelist" comment="[20.10.08] #3. feature 추가">
+      <change afterPath="$PROJECT_DIR$/img/profile_button.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/subject_logo/java_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/subject_logo/js_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/subject_logo/py_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/subject_logo/sql_logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/feature-tile__build.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/feature-tile__platform.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/feature-tile__projects.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/feature-tile__work.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo__github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo_footer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo_on.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +81,10 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KITT\Desktop\developing\my_blog\yaya\img" />
+      <recent name="C:\Users\KITT\Desktop\developing\my_blog\yaya\img\subject_logo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\KITT\Desktop\developing\my_blog\yaya\img" />
       <recent name="C:\Users\KITT\Desktop\developing\my_blog\yaya\js" />
@@ -81,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602067801569</updated>
       <workItem from="1602067802596" duration="8318000" />
-      <workItem from="1602121278865" duration="11808000" />
+      <workItem from="1602121278865" duration="20431000" />
     </task>
     <task id="LOCAL-00001" summary="[20.10.07] #1. 기본 설정">
       <created>1602070941088</created>
@@ -111,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602127601166</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[20.10.08] #3. feature 추가">
+      <created>1602136720152</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602136720152</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +160,8 @@
     <MESSAGE value="[20.10.07] #2. header 조금 만진듯 ㅋ" />
     <MESSAGE value="[20.10.08] #1. 가운데 배경섹션 추가" />
     <MESSAGE value="[20.10.08] #2. 흠" />
-    <option name="LAST_COMMIT_MESSAGE" value="[20.10.08] #2. 흠" />
+    <MESSAGE value="[20.10.08] #3. feature 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="[20.10.08] #3. feature 추가" />
   </component>
   <component name="WindowStateProjectService">
     <state x="838" y="417" key="Github.ShareDialog" timestamp="1602069530638">
@@ -145,10 +172,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="733" y="221" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602069547394" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602127602448">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602136724031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602127602448" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602136724031" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602069513325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
