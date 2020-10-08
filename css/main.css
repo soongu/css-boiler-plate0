@@ -209,7 +209,7 @@ header .sub-menu li a:hover {
     font-size: 2rem;
 }
 
-.section--visual .card-group li a {
+.section--visual .card-group a {
     display: block;
 }
 
