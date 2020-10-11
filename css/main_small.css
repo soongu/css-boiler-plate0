@@ -1,0 +1,60 @@
+/*COMMON*/
+.text__title {
+    font-size: 34px !important;
+}
+.text__description {
+    font-size: 18px !important;
+}
+
+/*VISUAL*/
+.section--visual .container {
+    padding: 20px 0;
+}
+.section--visual .text__description {
+    display: none;
+}
+.section--visual .main-btn-box .btn--main {
+    min-width: 100px;
+    min-height: 100px;
+    margin: 20px auto;
+}
+
+/*FEATURE*/
+.section--feature .tiles ul {
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.section--feature .tiles li {
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid #e5e5e5;
+}
+.section--feature .tiles li img {
+    height: auto;
+}
+
+/*WHERE IS*/
+.section--where-is .container .text .text__description p {
+    font-size: 15px;
+}
+#map {
+    width: auto;
+    margin: 20px -20px 0;
+    border-right: none;
+    border-left: none;
+}
+
+/*FOOTER*/
+footer .container {
+    padding: 10px 5px;
+}
+
+footer .site-links {
+    float: none;
+    margin: 15px;
+    padding-bottom: 10px;
+}
+
+footer .copyright {
+    text-align: center;
+}
